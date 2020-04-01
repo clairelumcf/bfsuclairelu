@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-size: 60px;
+    height:100px;
+	margin:0px;
+}
+
+div ul{
+        list-style-type:none;
+        margin:0;
+        padding:0;
+        overflow:hidden;
+        }
+        
+    li{
+        float: right;
+        }
+        
+        a{
+        display:block;
+        font-size: larger;
+        background-color: black;
+        color:white;
+        width:100px;
+        text-align:center;
+        padding:4px 0px;
+        text-decoration:none;
+        }
+        
+        a:hover,a:active{
+                background-color:grey;
+        
+        }
+
+
+p{
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+
+.img_wrap{
+    width: 1900px;
+    height: 300px;
+    display: table-cell; 
+    vertical-align: middle;
+    text-align: center;
+}
